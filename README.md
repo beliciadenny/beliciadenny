@@ -30,7 +30,6 @@ I’m continuously learning and experimenting with tools like Python, SQL, and B
 ## 🌱 Currently Learning 
 
 - Advanced machine learning techniques in Scikit-learn.
-- Cloud data warehousing with Google BigQuery.
 
 ## 🛠️ Technical Skillset
 
