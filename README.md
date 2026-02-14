@@ -25,13 +25,12 @@ I’m continuously learning and experimenting with tools like Python, SQL, and B
 ## 🔭 What I'm Currently Working On 
 
 - **Fake News Detection:** Working on a TF-IDF–based approach to classify news articles in Python.  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- **Disaster Preparedness & Response Analytics:** Working on disaster data visualization in Power BI.
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- Advanced machine learning techniques in Scikit-learn.
+- Cloud data warehousing with Google BigQuery.
 
 ## 🛠️ Technical Skillset
 
