@@ -1,58 +1,168 @@
-## Hi there, I'm Belicia Denny 👋
+# Hi there, I'm Belicia Denny 👋
 
 <div align="center">
-  <!--  You can customize the typing text in the "lines=" section of the URL below -->
-  <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;Power+BI+Developer" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Python+Developer;Building+AI-Powered+Applications;FastAPI+%7C+SQL+%7C+GenAI+%7C+React;Turning+Data+into+Intelligent+Products" alt="Typing SVG" />
+
 </div>
 
-<!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/belicia-denny"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:beliciadenny@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/belicia-denny">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+
+  <a href="mailto:beliciadenny@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail">
+  </a>
+
+  <a href="https://beliciadenny.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=google-chrome">
+  </a>
+
 </p>
 
-## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+---
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+# 🚀 About Me
 
-I’m continuously learning and experimenting with tools like Python, SQL, and BI platforms to deliver data solutions that are not just accurate, but impactful.
+I'm a Python developer passionate about building intelligent applications that combine backend engineering, AI, and data analytics to solve real-world business problems.
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://beliciadenny.github.io/)
-      
-## 🔭 What I'm Currently Working On 
+I enjoy designing scalable APIs, integrating Large Language Models (LLMs), automating data workflows, and transforming raw data into practical, user-focused solutions.
 
-- **Fake News Detection:** Working on a TF-IDF–based approach to classify news articles in Python.  
-- **Disaster Preparedness & Response Analytics:** Working on disaster data visualization in Power BI.
+My interests lie at the intersection of **Python development**, **Generative AI**, and **analytics**, where I build applications that help organizations improve efficiency, data quality, and decision-making.
 
-## 🌱 Currently Learning 
+---
 
-- Advanced machine learning techniques in Scikit-learn.
+# 🌟 Featured Projects
 
-## 🛠️ Technical Skillset
+## 🚀 AI Data Quality Guardian *(Currently Building)*
 
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
+An AI-powered platform that automatically profiles datasets, detects data quality issues, identifies anomalies, and generates intelligent cleaning recommendations using LLMs.
 
-#### Data Analysis & Visualization
+**Tech Stack**
+
+- Python
+- FastAPI
+- React
+- TypeScript
+- SQL
+- AI / LLM Integration
+
+---
+
+## 📄 Enterprise AI Documentation Assistant
+
+An intelligent document assistant built using Retrieval-Augmented Generation (RAG) that enables semantic search and question answering over enterprise documents.
+
+**Tech Stack**
+
+- Python
+- FastAPI
+- LangChain
+- FAISS
+- Ollama (Llama 3)
+- Streamlit
+
+---
+
+# 🌱 Currently Learning
+
+- Backend System Design
+- Docker & Containerization
+- PostgreSQL
+- AI Application Development
+- Deployment & CI/CD
+
+---
+
+# 🛠 Tech Stack
+
+### Backend Development
+
 <p>
-  <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,mysql,git,docker"/>
+
 </p>
 
-#### Programming & Automation
+---
+
+### AI & Machine Learning
+
 <p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/MachineLearning-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
 </p>
 
-#### Business Intelligence & Analytics
+- LangChain
+- RAG
+- FAISS
+- Ollama
+- Scikit-learn
+- NLP
+- Prompt Engineering
+
+---
+
+### Frontend
+
 <p>
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Intermediate-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Intermediate-96CEB4?style=flat" alt="KPI Development Skill Badge">
+
+<img src="https://skillicons.dev/icons?i=react,ts,html,css"/>
+
 </p>
+
+---
+
+### Data & Analytics
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</p>
+
+- SQL
+- Power BI
+- Excel
+- Pandas
+- NumPy
+- Data Cleaning
+- Exploratory Data Analysis
+- Dashboard Development
+
+---
+
+# 📌 Areas of Interest
+
+- Python Backend Development
+- AI Applications
+- REST APIs
+- Retrieval-Augmented Generation (RAG)
+- Intelligent Data Systems
+- Data Analytics
+- Business Intelligence
+- Workflow Automation
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark"/>
+
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+I'm always interested in collaborating on Python, AI, backend, and data-driven projects.
+
+- 💼 LinkedIn: https://linkedin.com/in/belicia-denny
+- 🌐 Portfolio: https://beliciadenny.github.io
+- 📧 Email: beliciadenny@gmail.com
