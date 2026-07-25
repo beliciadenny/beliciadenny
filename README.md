@@ -1,22 +1,27 @@
+```markdown
 # Hi there, I'm Belicia Denny 👋
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Python+Developer;Building+AI-Powered+Applications;FastAPI+%7C+SQL+%7C+GenAI+%7C+React;Turning+Data+into+Intelligent+Products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=2E9EF7&center=true&vCenter=true&width=650&lines=Python+•+AI+•+Data+Analytics;Building+AI-Powered+Applications;Turning+Data+into+Intelligent+Solutions;Always+Learning+%26+Building" alt="Typing SVG"/>
 
 </div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/belicia-denny">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 
   <a href="mailto:beliciadenny@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"/>
   </a>
 
-  <a href="https://beliciadenny.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=google-chrome">
+  <a href="https://beliciadenny.github.io/data-analytics/">
+    <img src="https://img.shields.io/badge/Data_Portfolio-Visit-orange?style=for-the-badge&logo=google-chrome"/>
+  </a>
+
+  <a href="https://beliciadenny.github.io/python-ai/">
+    <img src="https://img.shields.io/badge/Python_+_AI_Portfolio-Visit-purple?style=for-the-badge&logo=google-chrome"/>
   </a>
 
 </p>
@@ -25,11 +30,11 @@
 
 # 🚀 About Me
 
-I'm a Python developer passionate about building intelligent applications that combine backend engineering, AI, and data analytics to solve real-world business problems.
+I'm passionate about building software that combines **Python, AI, and data analytics** to solve practical business problems.
 
-I enjoy designing scalable APIs, integrating Large Language Models (LLMs), automating data workflows, and transforming raw data into practical, user-focused solutions.
+My work focuses on developing intelligent applications, backend systems, and data-driven solutions that automate workflows, improve data quality, and help organizations make informed decisions.
 
-My interests lie at the intersection of **Python development**, **Generative AI**, and **analytics**, where I build applications that help organizations improve efficiency, data quality, and decision-making.
+I enjoy transforming ideas into real-world products by combining backend development, AI technologies, and analytics into scalable and user-focused applications.
 
 ---
 
@@ -37,91 +42,77 @@ My interests lie at the intersection of **Python development**, **Generative AI*
 
 ## 🚀 AI Data Quality Guardian *(Currently Building)*
 
-An AI-powered platform that automatically profiles datasets, detects data quality issues, identifies anomalies, and generates intelligent cleaning recommendations using LLMs.
+An AI-powered platform for automated data profiling, quality assessment, anomaly detection, and intelligent data cleaning recommendations.
+
+**Highlights**
+
+- AI-assisted data quality analysis
+- Intelligent cleaning recommendations
+- Interactive dashboards
+- Backend API architecture
+- Real-world business use case
 
 **Tech Stack**
 
-- Python
-- FastAPI
-- React
-- TypeScript
-- SQL
-- AI / LLM Integration
+`Python` • `FastAPI` • `React` • `TypeScript` • `SQL` • `LLMs`
 
 ---
 
 ## 📄 Enterprise AI Documentation Assistant
 
-An intelligent document assistant built using Retrieval-Augmented Generation (RAG) that enables semantic search and question answering over enterprise documents.
+A Retrieval-Augmented Generation (RAG) application that enables semantic document search and intelligent question answering using local LLMs.
 
 **Tech Stack**
 
-- Python
-- FastAPI
-- LangChain
-- FAISS
-- Ollama (Llama 3)
-- Streamlit
+`Python` • `FastAPI` • `LangChain` • `FAISS` • `Ollama` • `Streamlit`
 
 ---
 
-# 🌱 Currently Learning
+## 📊 Other Projects
 
-- Backend System Design
-- Docker & Containerization
-- PostgreSQL
-- AI Application Development
-- Deployment & CI/CD
+- NLP-Powered Fake Review Detection
+- Dark Pattern Detection
+- Online Payment Fraud Detection
+- Remote Workforce Analytics Dashboard
+- COVID-19 Data Analysis Dashboard
 
 ---
 
 # 🛠 Tech Stack
 
-### Backend Development
+## Languages
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,mysql,git,docker"/>
-
+<img src="https://skillicons.dev/icons?i=python,ts,js,html,css,mysql"/>
 </p>
 
 ---
 
-### AI & Machine Learning
+## Backend & APIs
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
+<img src="https://skillicons.dev/icons?i=fastapi,docker,git"/>
 </p>
+
+- REST APIs
+- Authentication
+- CRUD Applications
+
+---
+
+## AI & Machine Learning
 
 - LangChain
-- RAG
+- Retrieval-Augmented Generation (RAG)
 - FAISS
 - Ollama
-- Scikit-learn
-- NLP
 - Prompt Engineering
+- Scikit-learn
+- Natural Language Processing
 
 ---
 
-### Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,ts,html,css"/>
-
-</p>
-
----
-
-### Data & Analytics
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-</p>
+## Data & Analytics
 
 - SQL
 - Power BI
@@ -134,25 +125,60 @@ An intelligent document assistant built using Retrieval-Augmented Generation (RA
 
 ---
 
-# 📌 Areas of Interest
+## Frontend
 
-- Python Backend Development
-- AI Applications
-- REST APIs
-- Retrieval-Augmented Generation (RAG)
-- Intelligent Data Systems
-- Data Analytics
-- Business Intelligence
-- Workflow Automation
+<p>
+<img src="https://skillicons.dev/icons?i=react,ts"/>
+</p>
 
 ---
 
+# 🌱 Currently Learning
 
+- AI Application Development
+- Backend System Design
+- Docker & Containerization
+- PostgreSQL
+- Deployment & CI/CD
+
+---
+
+# 🌐 Portfolio
+
+### 📊 Data & Analytics
+
+Business Intelligence, dashboards, reporting, SQL, Power BI, analytics, and data-driven decision making.
+
+➡️ https://beliciadenny.github.io/data-analytics/
+
+---
+
+### 🤖 Python & AI Applications
+
+Python backend development, FastAPI, AI-powered applications, LLM integration, and intelligent automation.
+
+➡️ https://beliciadenny.github.io/python-ai/
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=beliciadenny&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beliciadenny&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
 
 # 🤝 Let's Connect
 
-I'm always interested in collaborating on Python, AI, backend, and data-driven projects.
+I'm always interested in collaborating on projects involving **Python, AI, backend development, and data-driven solutions.**
 
 - 💼 LinkedIn: https://linkedin.com/in/belicia-denny
-- 🌐 Portfolio: https://beliciadenny.github.io
+- 🌐 Data Portfolio: https://beliciadenny.github.io/data-analytics/
+- 🌐 Python & AI Portfolio: https://beliciadenny.github.io/python-ai/
 - 📧 Email: beliciadenny@gmail.com
+```
