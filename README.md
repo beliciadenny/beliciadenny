@@ -40,7 +40,7 @@ I enjoy transforming ideas into real-world products by combining backend develop
 
 # 🌟 Featured Projects
 
-## 🚀 AI Data Quality Guardian *(Currently Building)*
+## 🚀 AI Data Quality Guardian 
 
 An AI-powered platform for automated data profiling, quality assessment, anomaly detection, and intelligent data cleaning recommendations.
 
