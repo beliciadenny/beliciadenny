@@ -1,4 +1,3 @@
-
 # Hi there, I'm Belicia Denny 👋
 
 <div align="center">
@@ -38,43 +37,53 @@ I enjoy transforming ideas into real-world products by combining backend develop
 
 ---
 
-# 🌟 Featured Projects
+# 📂 Projects
 
-## 🚀 AI Data Quality Guardian 
+## 📊 Data & Analytics
 
-An AI-powered platform for automated data profiling, quality assessment, anomaly detection, and intelligent data cleaning recommendations.
+- **[Revenue KPI Reconciliation Engine](https://github.com/beliciadenny/revenue-kpi-reconciliation)**
+  Explains why Finance, Operations and Fulfillment report different revenue, and ranks the orders worth investigating. Tested by planting 450 known errors in the data.
+  `Python` • `SQL` • `dbt` • `DuckDB` • `Streamlit` • `Plotly` • `GitHub Actions`
 
-**Highlights**
+- **[Retail Inventory Data Warehouse](https://github.com/beliciadenny/retail-inventory-data-warehouse)**
+  ETL pipeline and PostgreSQL star-schema warehouse that reconciles inventory, sales, supplier deliveries and returns, with data quality checks and a Power BI dashboard.
+  `Python` • `PostgreSQL` • `SQLAlchemy` • `Docker` • `APScheduler` • `Power BI`
 
-- AI-assisted data quality analysis
-- Intelligent cleaning recommendations
-- Interactive dashboards
-- Backend API architecture
-- Real-world business use case
+- **[Meta Ad Performance Analysis](https://github.com/beliciadenny/Meta-Advertisement-Performance-Dashboard)**
+  Power BI funnel dashboard comparing Facebook and Instagram ads across impressions, clicks, conversions and audience segments.
+  `Power BI` • `Funnel Analysis` • `KPI Design`
 
-**Tech Stack**
+- **[Remote Workforce Analytics Dashboard](https://github.com/beliciadenny/PowerBI-RemoteWork-Analysis)**
+  Power BI dashboard comparing productivity, burnout and satisfaction across remote, hybrid and on-site work.
+  `Power BI` • `DAX` • `SQL`
 
-`Python` • `FastAPI` • `React` • `TypeScript` • `SQL` • `LLMs`
+## 🤖 Python & AI
 
----
+- **[AI Incident Root Cause Analyzer](https://github.com/beliciadenny/ai-incident-root-cause-analyzer)**
+  AIOps system that detects anomalies in application telemetry, classifies the likely root cause, predicts severity and explains its reasoning.
+  `Python` • `TensorFlow` • `XGBoost` • `FastAPI` • `SHAP` • `Streamlit` • `PostgreSQL` • `Docker`
 
-## 📄 Enterprise AI Documentation Assistant
+- **[Enterprise AI Documentation Assistant](https://github.com/beliciadenny/enterprise-ai-documentation-assistant)**
+  Retrieval-Augmented Generation (RAG) application for semantic document search and question answering using a local LLM.
+  `Python` • `FastAPI` • `LangChain` • `FAISS` • `Ollama` • `Streamlit`
 
-A Retrieval-Augmented Generation (RAG) application that enables semantic document search and intelligent question answering using local LLMs.
+- **[Online Payment Fraud Detection](https://github.com/beliciadenny/Online_Payments_Fraud_Detection-MLProject)**
+  Machine learning model that flags suspicious financial transactions from behavioral and transaction patterns.
+  `Python` • `Machine Learning` • `Pandas`
 
-**Tech Stack**
+## 🔀 Data + AI
 
-`Python` • `FastAPI` • `LangChain` • `FAISS` • `Ollama` • `Streamlit`
+- **[AI Data Quality Guardian](https://github.com/beliciadenny/ai-data-quality-guardian)**
+  Full-stack platform that profiles datasets, validates quality and recommends fixes, with JWT auth, audit logging and PDF reports.
+  `Python` • `FastAPI` • `PostgreSQL` • `React` • `TypeScript` • `LangChain` • `Ollama` • `Docker`
 
----
+- **[Dark Pattern Detection](https://github.com/beliciadenny/dark-pattern-detection)**
+  NLP and XGBoost model that detects deceptive UI patterns on e-commerce sites and maps findings to consumer protection guidelines.
+  `Python` • `NLP` • `XGBoost` • `SHAP` • `Power BI`
 
-## 📊 Other Projects
-
-- NLP-Powered Fake Review Detection
-- Dark Pattern Detection
-- Online Payment Fraud Detection
-- Remote Workforce Analytics Dashboard
-- COVID-19 Data Analysis Dashboard
+- **[Fake Review Detector](https://github.com/beliciadenny/Fake-Review-Detector)** • [Live demo](https://fake-review-detector-enpfumjyh4c6ckupxexppl.streamlit.app/)
+  NLP classifier that separates genuine reviews from fraudulent ones, deployed on Streamlit Cloud.
+  `Python` • `Scikit-learn` • `TF-IDF` • `Random Forest` • `Streamlit`
 
 ---
 
@@ -83,7 +92,7 @@ A Retrieval-Augmented Generation (RAG) application that enables semantic documen
 ## Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,ts,js,html,css,mysql"/>
+<img src="https://skillicons.dev/icons?i=python,ts,js,html,css,mysql,postgres"/>
 </p>
 
 ---
@@ -91,11 +100,11 @@ A Retrieval-Augmented Generation (RAG) application that enables semantic documen
 ## Backend & APIs
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,docker,git"/>
+<img src="https://skillicons.dev/icons?i=fastapi,docker,git,githubactions"/>
 </p>
 
 - REST APIs
-- Authentication
+- JWT Authentication & Role-Based Access Control
 - CRUD Applications
 
 ---
@@ -108,6 +117,9 @@ A Retrieval-Augmented Generation (RAG) application that enables semantic documen
 - Ollama
 - Prompt Engineering
 - Scikit-learn
+- XGBoost
+- TensorFlow
+- SHAP
 - Natural Language Processing
 
 ---
@@ -117,8 +129,11 @@ A Retrieval-Augmented Generation (RAG) application that enables semantic documen
 - SQL
 - Power BI
 - Excel
+- dbt
+- DuckDB
 - Pandas
 - NumPy
+- ETL Pipelines
 - Data Cleaning
 - Exploratory Data Analysis
 - Dashboard Development
@@ -137,8 +152,6 @@ A Retrieval-Augmented Generation (RAG) application that enables semantic documen
 
 - AI Application Development
 - Backend System Design
-- Docker & Containerization
-- PostgreSQL
 - Deployment & CI/CD
 
 ---
@@ -149,7 +162,7 @@ A Retrieval-Augmented Generation (RAG) application that enables semantic documen
 
 Business Intelligence, dashboards, reporting, SQL, Power BI, analytics, and data-driven decision making.
 
-➡️ https://beliciadenny.github.io/data-analytics/
+➡️ https://beliciadenny.github.io/belicia/data-analytics/
 
 ---
 
@@ -157,18 +170,15 @@ Business Intelligence, dashboards, reporting, SQL, Power BI, analytics, and data
 
 Python backend development, FastAPI, AI-powered applications, LLM integration, and intelligent automation.
 
-➡️ https://beliciadenny.github.io/python-ai/
+➡️ https://beliciadenny.github.io/belicia/python-ai/
 
 ---
-
-
 
 # 🤝 Let's Connect
 
 I'm always interested in collaborating on projects involving **Python, AI, backend development, and data-driven solutions.**
 
 - 💼 LinkedIn: https://linkedin.com/in/belicia-denny
-- 🌐 Data Portfolio: https://beliciadenny.github.io/data-analytics/
-- 🌐 Python & AI Portfolio: https://beliciadenny.github.io/python-ai/
+- 🌐 Data Portfolio: https://beliciadenny.github.io/belicia/data-analytics/
+- 🌐 Python & AI Portfolio: https://beliciadenny.github.io/belicia/python-ai/
 - 📧 Email: beliciadenny@gmail.com
-  
