@@ -15,11 +15,11 @@
     <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"/>
   </a>
 
-  <a href="https://beliciadenny.github.io/data-analytics/">
+  <a href="https://beliciadenny.github.io/belicia/data-analytics/">
     <img src="https://img.shields.io/badge/Data_Portfolio-Visit-orange?style=for-the-badge&logo=google-chrome"/>
   </a>
 
-  <a href="https://beliciadenny.github.io/python-ai/">
+  <a href="https://beliciadenny.github.io/belicia/python-ai/">
     <img src="https://img.shields.io/badge/Python_+_AI_Portfolio-Visit-purple?style=for-the-badge&logo=google-chrome"/>
   </a>
 
