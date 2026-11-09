@@ -179,5 +179,5 @@ Python backend development, FastAPI, AI-powered applications, LLM integration, a
 I'm always interested in collaborating on projects involving **Python, AI, backend development, and data-driven solutions.**
 
 - 💼 LinkedIn: https://linkedin.com/in/belicia-denny
-- 🌐 Project Portfolio: https://beliciadenny.github.io/belicia/index.html
+- 🌐 Project Portfolio: https://beliciadenny.github.io/belicia/
 - 📧 Email: beliciadenny@gmail.com
